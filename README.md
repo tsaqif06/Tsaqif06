@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/ahmad tsaqif al arifin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad tsaqif al arifin" height="30" width="40" /></a>
-<a href="https://instagram.com/@a.tsaqif_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@a.tsaqif_al" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@02ahmadtsaqifalarifin77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@02ahmadtsaqifalarifin77" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmadtsaqif.alarifin.1/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad tsaqif al arifin" height="30" width="40" /></a>
+<a href="https://instagram.com/a.tsaqif_al" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@a.tsaqif_al" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@02ahmadtsaqifalarifin77" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@02ahmadtsaqifalarifin77" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
