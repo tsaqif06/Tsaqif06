@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tsaqif06](https://github.com/Tsaqif06)
 
-- 💬 Ask me about **HTML, CSS , Java Script**
+- 💬 Ask me about **Web Development, PHP, MySQL, OOP and MVC**
 
 - 📫 How to reach me **tsaqifcakep87@gmail.com**
 
