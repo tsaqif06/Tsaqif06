@@ -16,6 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tsaqif06&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+<img src="https://komarev.com/ghpvc/?username=tsaqif06&label=Profile%20views&color=0e75b6&style=plastic" alt="profile view">
 [![](https://visitcount.itsvg.in/api?id=Tsaqif06&icon=5&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
