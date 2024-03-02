@@ -3,6 +3,7 @@
 
 # 💫 About Me:
 👨‍💻 All of my projects are available at https://github.com/tsaqif06<br>💬 Ask me about Web Development<br>📫 How to reach me ahmadtsaqifal6@gmail.com<br>🌱 I’m currently developing a PHP Framework<br>⚡ Fun fact I am 17 Years old
+<p align="center"><a href="https://discord.com/users/433946889776267274" target="_blank" rel="noreferrer"><img align="center" src="https://lanyard.cnrad.dev/api/433946889776267274" alt="tsaqif06" /> </a></p>
 
 
 ## 🌐 Socials:
