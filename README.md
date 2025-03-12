@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Béryl+HOUESSOU;](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Ahmad+Tsaqif;I+am+a+backend+developer;">
 
 # 💫 About Me:
-👨‍💻 All of my projects are available at https://github.com/tsaqif06<br>💬 Ask me about Web Development<br>📫 How to reach me ahmadtsaqifal6@gmail.com<br>🌱 I’m currently developing a PHP Framework<br>⚡ Fun fact Ich kann ein bisschen deutsch sprechen 😁
+👨‍💻 All of my projects are available at https://github.com/tsaqif06<br>💬 Ask me about Web Development<br>📫 How to reach me ahmadtsaqifal6@gmail.com<br>🌱 I’m currently developing a PHP Framework<br>⚡ Fun fact that, Ich kann ein bisschen deutsch sprechen 😁
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Snoxz#9848) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://web.facebook.com/ahmadtsaqif.alarifin.14/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.tsaqif_al) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCLfoXtxaJDOfczuNSWDvmKQ) 
